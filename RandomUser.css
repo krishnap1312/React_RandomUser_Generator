@@ -1,0 +1,35 @@
+.bg-headers{
+    background-color: #F2CD5C;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg-headers-span{
+    color: #DF2E38;
+}
+
+.LOGO-header{
+    box-shadow: 5  px 5px 11px black;
+    border-radius: 50%;   
+}
+
+.LOGO-header:hover{
+    box-shadow: 0px 0px 11px red;
+    border-radius: 50%;  
+    transition: .5s;
+}
+
+.PersonHeaderRandom{
+    color: #DBE4C6;
+}
+
+.RandomUserDetails{
+    color: #060047;
+    font-weight: 600;
+    
+}
+
+.RandomHeaderTitle{
+    color: #13005A;
+    font-weight: bold;
+    font-size: 200%;
+}
